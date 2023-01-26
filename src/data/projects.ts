@@ -16,6 +16,13 @@ export const ProjectData: Project[] = [
     icon: ['fas', 'home'],
   },
   {
+    title: 'palera1n',
+    description:
+      "palera1n is an iOS 15.x-16.x jailbreak for checkm8 devices",
+    href: 'https://github.com/palera1n/palera1n',
+    icon: ['fas', 'droplet'],
+  },
+  {
     title: 'zyno.us',
     description:
       "The privacy respecting self hosted services.",
