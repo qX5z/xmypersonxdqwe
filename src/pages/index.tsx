@@ -44,7 +44,7 @@ const Home = () => {
 
   return (
     <>
-      <a rel="me" href="https://social.zyno.us/@nebula" style={{"display": "none"}}></a>
+      <a rel="me" href="https://procursus.social/@nebula" style={{"display": "none"}}></a>
       <GenericMeta title="Nebula" description="Passionate developer from the United States." />
 
       <MainLayout margin={false}>
