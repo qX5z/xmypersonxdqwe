@@ -17,10 +17,6 @@ export const AccountData: Account[] = [
     href: '/twitter',
   },
   {
-    name: 'Discord',
-    href: '/discord',
-  },
-  {
     name: 'Email',
     icon: ['fas', 'envelope'],
   },
