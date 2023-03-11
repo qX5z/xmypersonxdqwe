@@ -4,7 +4,7 @@ const Custom404 = () => {
       <div>
         <h1 className="font-bold text-5xl">Page Not Found</h1>
         <p className="text-gray-600 dark:text-gray-400 mt-2 max-w-sm">
-          Sayfa bulunamadı. Ana sayfaya dönebilirsiniz.
+          Page not found. You can return to the main page.
           Böyle bir sayfa bulunamadı anasayfaya dönebilirsiniz.
         </p>
       </div>
