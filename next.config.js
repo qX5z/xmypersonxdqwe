@@ -9,22 +9,17 @@ module.exports = {
     return [
       {
         source: '/github',
-        destination: 'https://github.com/itsnebulalol',
+        destination: 'https://github.com/spatz1337',
         permanent: true,
       },
       {
         source: '/twitter',
-        destination: 'https://twitter.com/itsnebulalol',
+        destination: 'https://twitter.com/erennszn',
         permanent: true,
       },
       {
-        source: '/discord',
-        destination: 'https://dsc.gg/nebulapalace',
-        permanent: true,
-      },
-      {
-        source: '/permasigner',
-        destination: 'https://github.com/itsnebulalol/permasigner',
+        source: '/spotify',
+        destination: 'https://open.spotify.com/artist/281tNutqcHbRPVf1qEjeAR?si=b10da26933424969',
         permanent: true,
       },
     ]
