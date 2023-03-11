@@ -14,7 +14,7 @@ export const AccountData: Account[] = [
   },
   {
     name: 'Twitter',
-    href: 'https://instagram.com/erennszn',
+    href: 'https://twitter.com/erennszn',
   },
   {
     name: 'Email',
