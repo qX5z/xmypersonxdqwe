@@ -7,7 +7,7 @@ import { InferGetStaticPropsType } from 'next'
 const Blog = ({ allPostsData }: InferGetStaticPropsType<typeof getStaticProps>) => {
   return (
     <MainLayout
-      title="Blog"
+      title="hi"
       description="contact for @erennszn"
     >
       <div className="mt-8 grid gap-8">
