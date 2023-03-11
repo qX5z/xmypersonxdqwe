@@ -13,8 +13,8 @@ export const AccountData: Account[] = [
     href: 'https://github.com/spatz1337',
   },
   {
-    name: 'Google',
-    href: 'https://discord.com/users/934593001865510982',
+    name: 'Twitter',
+    href: 'https://instagram.com/erennszn',
   },
   {
     name: 'Email',
