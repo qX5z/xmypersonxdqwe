@@ -33,15 +33,6 @@ export const Dropdown = () => {
   const toggleActive = () => setActive((active) => !active)
   useClickAway(ref, () => setActive(false))
 
-  return (
-    <div ref={ref}>
-      <button
-        onClick={() => toggleActive()}
-        aria-label="Dropdown"
-        className="flex items-center justify-center focus:outline-none mr-10 transition duration-300 ease-in-out hover:text-indigo-900 dark:hover:text-indigo-200"
-      >
-        <FontAwesomeIcon className="w-4 h-4" icon={['fas', 'caret-down']} />
-      </button>
       <AnimatePresence>
         {active && (
           <motion.div
