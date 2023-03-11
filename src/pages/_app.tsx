@@ -42,10 +42,10 @@ const App = ({ Component, pageProps }: AppProps) => {
             <div className=""></div>
             <div className=""></div>
             <div className=""></div>
-            <div className="particle"></div>
-            <div className="particle"></div>
-            <div className="particle"></div>
-            <div className="particle"></div>
+            <div className=""></div>
+            <div className=""></div>
+            <div className=""></div>
+            <div className=""></div>
             <div className="particle"></div>
             <div className="particle"></div>
             <div className="particle"></div>
