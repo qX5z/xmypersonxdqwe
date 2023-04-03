@@ -44,13 +44,13 @@ const Home = () => {
 
   return (
     <>
-      <a rel="me" href="https://procursus.social/@nebula" style={{"display": "none"}}></a>
-      <GenericMeta title="Eren Sezen" description="Cyber Sec# and Software Developer from Turkey." />
+      <a rel="me" href="https://ptb.discord.com/users/694942062163918869" style={{"display": "none"}}></a>
+      <GenericMeta title="Eren" description="Cyber SeC# and Software Developer from Turkey." />
 
       <MainLayout margin={false}>
         <h1 className="text-6xl font-bold">Eren</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 max-w-sm mt-2">
-          Cyber Sec# and Software Developer from Turkey.
+        Cyber SeC# and Software Developer from Turkey.
         </p>
         <div className="grid grid-flow-col w-48 mt-3 text-lg">
           {AccountData.map((account) => (
